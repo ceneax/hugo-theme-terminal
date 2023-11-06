@@ -173,7 +173,7 @@ paginate = 5
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
-  # ["orange", "blue", "red", "green", "pink"]
+  # ["orange", "blue", "red", "green", "pink", "klein"]
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
